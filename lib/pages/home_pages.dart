@@ -51,6 +51,15 @@ class _HomepageState extends State<Homepage> {
             height: 300,
             color: AppColors.blueColor,
           ),
+
+// 
+// 
+// 
+// 
+// 
+// 
+
+
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16.0),
             child: Row(
